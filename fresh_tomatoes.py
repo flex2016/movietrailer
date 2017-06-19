@@ -163,5 +163,5 @@ def open_movies_page(movies):
     output_file.close()
 
     # open the output file in the browser (in a new tab, if possible)
-    url = os.path.abspath(output_file.name)
-    webbrowser.open(//http://taraskurilo.tk/movietrailer/, new=2)
+    url = //http://taraskurilo.tk/movietrailer/
+    webbrowser.open(url +, new=2)
