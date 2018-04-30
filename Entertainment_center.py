@@ -2,14 +2,14 @@ import fresh_tomatoes
 import media
 
 toy_story = media.Movie("Toy Story", "A Story of a boy and his toys.",
-                        "http://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
+                        "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
                         "https://www.youtube.com/watch?v=NBepTulmSMw")
 #print(toy_story.storyline)
 #print(toy_story.poster_image_url)
 
 avatar = media.Movie ("Avatar", "A marine on an alien planet",
-                      "http://upload.wikimedia.org/wikimedia/id/b/b0/Avatar-Teaser-Poster.jpg",
-                      "http://www.youtube.com/watch?v=-ceBgWV8io")
+                      "https://upload.wikimedia.org/wikimedia/id/b/b0/Avatar-Teaser-Poster.jpg",
+                      "https://www.youtube.com/watch?v=-ceBgWV8io")
 #print(avatar.storyline)
 #avatar.show_trailer()
 
