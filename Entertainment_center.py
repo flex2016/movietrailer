@@ -8,7 +8,7 @@ toy_story = media.Movie("Toy Story", "A Story of a boy and his toys.",
 #print(toy_story.poster_image_url)
 
 avatar = media.Movie ("Avatar", "A marine on an alien planet",
-                      "http://resizing.flixster.com/W1BtrV4MS0HZwzJQSBe4mBQfwQs=/800x1200/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/67/11176792_ori.jpg",
+                      "http://images2.fanpop.com/image/photos/10800000/Avatar-avatar-10806310-1280-960.jpg",
                       "https://www.youtube.com/watch?v=-ceBgWV8io")
 #print(avatar.storyline)
 #avatar.show_trailer()
